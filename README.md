@@ -4,8 +4,8 @@ Assets and metadata for Manto MT (MANTO) token listing on CoinMarketCap.
 
 ## 📌 Token Information
 
-- **Name**: Manto MT
-- **Symbol**: MANTO
+- **Name**: Manto 
+- **Symbol**: MT
 - **Blockchain**: Solana
 - **Mint Address**: 3uMHJrDjKFxkz1rr3oUbEGxx7sKdpJWQHTeTAgjPU37p
 - **Launch Date**: August 13, 2025
